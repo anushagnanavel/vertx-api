@@ -1,0 +1,6 @@
+vertxentity/Signup.class
+Redis/RedisJava.class
+io/anu/vertx/vertx_api/PingVerticle.class
+vertxservice/SignupService.class
+vertxrepository/SignupDao.class
+vertxentity/Singnupuuid.class
